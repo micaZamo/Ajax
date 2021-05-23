@@ -1,0 +1,49 @@
+body {
+  background-image: url(fondo-galaxia.jpg);
+  font-family: -webkit-pictograph;
+}
+.inicio {
+  text-align: center;
+  margin: 96px;
+}
+.contenido {
+  display: none;
+}
+#btn-carga {
+  width: 74px;
+  height: 25px;
+  background-color: hotpink;
+  border: 1.5px solid black;
+  font-family: -webkit-pictograph;
+}
+
+#titulo {
+  color: white;
+  text-align: center;
+  margin-top: -56px;
+  font-size: -webkit-xxx-large;
+}
+
+#fecha {
+  color: white;
+  background-color: darkcyan;
+  text-align: center;
+  width: 129px;
+  height: 25px;
+  margin: auto;
+  margin-top: -15px;
+  font-size: 21px;
+}
+
+#detalle {
+  color: white;
+  background-color: black;
+  text-align: justify;
+  font-size: 20px;
+}
+#imagen {
+  width: 80%;
+  height: 80%;
+  margin-left: 133px;
+  border: 4px solid floralwhite;
+}
